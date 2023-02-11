@@ -14,5 +14,5 @@ git clone https://github.com/ervin-sungkono/Theater-Rent-App
 ```
 2. Get your google-services.json file [here](https://console.firebase.google.com/) and add it in the app level directory
 3. Open string.xml file and add your Google Maps API key there
-4. Open APIInterface.java file and Add your IMDB API key there, you can find it [here](https://imdb-api.com/)
+4. Open APIInterface.java file and add your IMDB API key there, you can find it [here](https://imdb-api.com/)
 5. Run the project
