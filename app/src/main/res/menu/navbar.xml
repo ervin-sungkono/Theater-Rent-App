@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/theaters"
+        android:title="My Theaters"
+        android:icon="@drawable/ic_baseline_theaters_24"/>
+    <item
+        android:id="@+id/watchlist"
+        android:title="Watchlist"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"/>
+    <item
+        android:id="@+id/location"
+        android:title="Location"
+        android:icon="@drawable/ic_baseline_location_24"/>
+</menu>
